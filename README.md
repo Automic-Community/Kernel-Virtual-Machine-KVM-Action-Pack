@@ -1,9 +1,9 @@
-*KVM Action Pack*
+*Kernel Virtual Machine KVM Action Pack*
 =============
 
 
 Manage KVM-based virtual machines and networks as part of an automated workflow
-http://github.com/Automic-Community/KVM-Action-Pack
+http://github.com/Automic-Community/Kernel-Virtual-Machine-KVM-Action-Pack
 
 <!-- List of attached files -->
 Contents of Solution Package:
